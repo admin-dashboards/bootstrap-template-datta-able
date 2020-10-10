@@ -11,9 +11,9 @@
 
 **Links**
 
-
-
-
+- [Datta Able](http://html.codedthemes.com/datta-able/index.html) - LIVE Demo
+- [Datta Able - Flask](https://appseed.us/admin-dashboards/flask-dashboard-dattaable) - Flask version of Datta Able design, coded by AppSeed
+- [Datta Able - Django](https://appseed.us/admin-dashboards/django-dashboard-dattaable) - A simple Django starter provided by AppSeed
 
 <br />
 
