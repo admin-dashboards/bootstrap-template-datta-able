@@ -21,30 +21,6 @@
 
 <br />
 
-## Free Version Preview & Download
-
-Check out live preview of Datta Able lite version & download it.
-
-#### Preview
-
- - [Demo](http://lite.codedthemes.com/datta-able/bootstrap)
-
-#### Download
-
- - [Download from Github](https://github.com/codedthemes/datta-able-bootstrap-dashboard.git)
- - [Download from CodedThemes]( https://codedthemes.com/item/datta-able-bootstrap-lite/) & receive important notification instantly in your maiL.
- 
- ## Premium Version Preview & Download
-
-Datta Able Pro Admin Template is available to purchase. Visit its numerous demos and make your purchase decision.
-#### Preview
-
- - [Demo](http://html.codedthemes.com/datta-able/bootstrap/default)
-
-#### Download
-
- - [Purchase from CodedThemes](https://codedthemes.com/item/datta-able-premium)
-
 ## Table of contents
 
  * [Getting Started](#getting-started)
