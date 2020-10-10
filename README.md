@@ -1,5 +1,5 @@
 # [Datta Able](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-pro) Free Bootstrap 4 Admin Template
----
+
 
 [Datta Able](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-pro) Free Dashboard Template made using Bootstrap 4 framework, It is a free lite version of [Datta Able Pro](https://codedthemes.com/item/datta-able-premium/) Dashboard Template that makes you fulfill your Dashboard needs. Datta Able Admin Template comes with variety of components like Button, Badges, Tabs, Breadcrumb, Icons, Form elements, Table, Charts & Authentication pages.
 
