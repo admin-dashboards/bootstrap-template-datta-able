@@ -137,3 +137,8 @@ Please generate Github issue if you found bug in any version. We are try to be r
  - Facebook [https://www.facebook.com/codedthemes](https://www.facebook.com/codedthemes)
  - Twitter [https://twitter.com/codedthemes](https://twitter.com/codedthemes)
  - Instagram [https://www.instagram.com/codedthemes/](https://www.instagram.com/codedthemes/)
+ 
+ <br />
+ 
+---
+[Datta Able](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-pro) - design provided by CodedThemes.
